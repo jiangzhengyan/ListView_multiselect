@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multList\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "I:\\work_space_studio\\Multi_select\\multi_select_list\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<com.ljfbest.temp.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="66dp"
+    android:layout_height="66dp"
+    android:padding="5dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:gravity="center_vertical"
+        android:text="年宿舍"
+        android:textSize="24sp" />
+
+</com.ljfbest.temp.CheckableLinearLayout>

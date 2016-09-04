@@ -1,0 +1,3 @@
+CHANGED,I:\work_space_studio\Multi_select\multi_select_list\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ljfbest\temp\MultActivity$MultAdapter$override.class
+CHANGED,I:\work_space_studio\Multi_select\multi_select_list\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,I:\work_space_studio\Multi_select\multi_select_list\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ljfbest\temp\MultActivity$override.class
