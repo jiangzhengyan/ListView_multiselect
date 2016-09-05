@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Multi_select.iml" filepath="$PROJECT_DIR$/Multi_select.iml" />
-      <module fileurl="file://$PROJECT_DIR$/multi_select_list/multList.iml" filepath="$PROJECT_DIR$/multi_select_list/multList.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi_select_list/multi_select_list.iml" filepath="$PROJECT_DIR$/multi_select_list/multi_select_list.iml" />
     </modules>
   </component>
